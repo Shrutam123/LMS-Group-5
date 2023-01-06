@@ -9,6 +9,7 @@ public class LeaveSpringBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LeaveSpringBootApplication.class, args);
 		System.out.println("Leave Management System");
+		// welcome to leave management system
 	}
 
 }
